@@ -1,1 +1,2 @@
 entry1
+new entry
